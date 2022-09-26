@@ -1,0 +1,22 @@
+section, #create, img {
+  margin: 0 auto;
+  width: 40%;
+  display: block;
+}
+
+img {
+  width: 70%;
+}
+
+button {
+  cursor: pointer;
+}
+
+.progress {
+  text-align: center;
+}
+
+#feed {
+  border: none;
+  background: lightgreen;
+}
